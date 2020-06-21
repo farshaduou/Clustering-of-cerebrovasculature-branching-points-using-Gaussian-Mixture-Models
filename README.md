@@ -12,3 +12,7 @@ best describing configuration waws obsereved with 5 clusters as seen below, best
 <p align="center">
   <img src="images/clusters.svg" />
 </p>
+
+<p align="center">
+  <img src="images/bottomGroups.svg" />
+</p>
