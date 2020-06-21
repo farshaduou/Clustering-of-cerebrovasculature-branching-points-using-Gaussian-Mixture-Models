@@ -1,5 +1,4 @@
-# Probabilistic Modeling Project 
-
+# Running Instructions
 To run the project clone the repository and run projectMain.m using MATLAB.
 You will need to acquire the dataset.
 
